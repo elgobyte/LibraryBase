@@ -1,10 +1,12 @@
 # TimeAnalysis
+This Library is about getting 'Average of Time'. You just need to pass different times(in 12h format) and it will return the average in the string format.
+
+# Gradle
 
 Step 1. Add the JitPack repository to your build file
 
 	allprojects {
 		repositories {
-			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
