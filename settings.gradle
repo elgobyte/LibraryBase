@@ -1,0 +1,2 @@
+include ':app', ':timeanalysis'
+rootProject.name='LibraryBase'
